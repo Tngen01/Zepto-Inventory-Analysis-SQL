@@ -1,5 +1,4 @@
 # Zepto-Inventory-Analysis-SQL
-# Zepto Product & Inventory Analysis Using PostgreSQL
 
 ## Overview
 
